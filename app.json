@@ -1,0 +1,11 @@
+{
+  "name": "AgarWimbo",
+  "description": "ESTE JUEGO ESTA PASADO EN UNA BETA 2.0 del Jugado Wimbo (Daniel Gtt)",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  },
+  "repository": "https://github.com/huytd/agar.io-clone"
+}
